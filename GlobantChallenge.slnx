@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GlobantChallenge.Api/GlobantChallenge.Api.csproj" />
+  <Project Path="GlobantChallenge.Application.Tests/GlobantChallenge.Application.Tests.csproj" />
+  <Project Path="GlobantChallenge.Application/GlobantChallenge.Application.csproj" />
+  <Project Path="GlobantChallenge.Infrastructure/GlobantChallenge.Infrastructure.csproj" />
+</Solution>

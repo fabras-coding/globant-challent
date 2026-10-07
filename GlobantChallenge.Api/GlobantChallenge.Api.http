@@ -1,0 +1,11 @@
+@GlobantChallenge.Api_HostAddress = http://localhost:5251
+
+GET {{GlobantChallenge.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{GlobantChallenge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
